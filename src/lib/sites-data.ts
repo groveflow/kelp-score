@@ -122,11 +122,11 @@ export const SITES: Site[] = [
   },
 
   // ─── CENTRAL COAST (Excellent historical presence, variable urchin pressure) ───
-  {
+  {  
     id: "pacific-grove",
     name: "Pacific Grove Marine Gardens",
     location: "Monterey County",
-    coordinates: { lat: 36.6177, lng: -121.9166 },
+    coordinates: { lat:  36.640000, lng: -121.920000 },
     region: "Central Coast",
     description:
       "State Marine Conservation Area with granitic reefs. Giant kelp and bull kelp co-occur with high biodiversity.",
@@ -143,11 +143,11 @@ export const SITES: Site[] = [
     },
     riskFlags: [],
   },
-  {
+  { 
     id: "monterey-bay-south",
     name: "Monterey Bay - South Shore",
     location: "Monterey County",
-    coordinates: { lat: 36.6002, lng: -121.8947 },
+    coordinates: { lat: 36.500000, lng: -121.980000 },
     region: "Central Coast",
     description:
       "Prime kelp habitat in the Monterey Bay National Marine Sanctuary. Strong upwelling canyon provides consistent nutrients.",
@@ -166,11 +166,11 @@ export const SITES: Site[] = [
       { type: "high", label: "Urchin barren encroachment" },
     ],
   },
-  {
+  {  
     id: "carmel-bay",
     name: "Carmel Bay",
     location: "Monterey County",
-    coordinates: { lat: 36.5552, lng: -121.9330 },
+    coordinates: { lat: 36.550000, lng: -121.940000 },
     region: "Central Coast",
     description:
       "Granite-bottomed bay within Point Lobos SMCA. Excellent water clarity and moderate wave protection from Point Lobos headland.",
