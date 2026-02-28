@@ -26,7 +26,7 @@ export function MetricWeightsPanel({
         <div className="flex items-center gap-2">
           <SlidersHorizontal className="w-4 h-4 text-teal-600" />
           <h2 className="text-sm font-semibold text-slate-900">
-            Metric Weights
+            Attribute Weightings
           </h2>
         </div>
         {!isDefault && (
