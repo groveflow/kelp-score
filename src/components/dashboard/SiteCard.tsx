@@ -217,7 +217,7 @@ export function SiteCard({ site, isExpanded, onToggle }: SiteCardProps) {
           {/* Score breakdown label */}
           <div className="flex items-center gap-2">
             <h4 className="text-xs font-semibold text-slate-700">
-              Metric Scores
+              Scores
             </h4>
             <span
               className={`text-[10px] font-medium px-2 py-0.5 rounded-full ${tier.bg} ${tier.text}`}
